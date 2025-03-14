@@ -114,10 +114,7 @@ img:not([phones], [bg]) {
   width: 100%;
 }
 
-main {
-  /* Layout */
- 
-}
+
 
 header {
   /* Layout */
@@ -148,10 +145,6 @@ footer {
 }
 
 /* Generic classes */
-
-.icon {
-  
-}
 
 
 
@@ -194,7 +187,6 @@ footer {
   }
 }
 
-.top-nav 
 
 .top-nav a {
   color: var(--grayish-blue);
